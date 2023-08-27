@@ -1,0 +1,23 @@
+{
+  "recommendations": [
+    "christian-kohler.npm-intellisense",
+    "christian-kohler.path-intellisense",
+    "dbaeumer.vscode-eslint",
+    "donjayamanne.git-extension-pack",
+    "formulahendry.auto-complete-tag",
+    "github.copilot-labs",
+    "github.copilot",
+    "github.heygithub",
+    "github.remotehub",
+    "github.vscode-pull-request-github",
+    "ms-edgedevtools.vscode-edge-devtools",
+    "oderwat.indent-rainbow",
+    "seatonjiang.gitmoji-vscode",
+    "sonarsource.sonarlint-vscode",
+    "visualstudioexptteam.intellicode-api-usage-examples",
+    "visualstudioexptteam.vscodeintellicode-completions",
+    "visualstudioexptteam.vscodeintellicode",
+    "xabikos.javascriptsnippets",
+    "ziyasal.vscode-open-in-github",
+  ]
+}
